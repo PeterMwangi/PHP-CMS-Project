@@ -1,6 +1,10 @@
 <?php require_once('../private/initialize.php'); ?>
 
+
+<?php echo "Trial for new commits!";    ?>
+
 <?php
+
 
 if(is_post_request()) {
   // Form was submitted
