@@ -1,3 +1,5 @@
+<?php echo "These are important files which validate certain authentication procedures"; ?>
+
 <?php
 
 // Performs all actions necessary to log in an admin
