@@ -1,3 +1,5 @@
+<?php echo "I hope this project is helpful and will impact your progress in learning!";    ?>
+
 <?php require_once('../private/initialize.php'); ?>
 
 <?php
